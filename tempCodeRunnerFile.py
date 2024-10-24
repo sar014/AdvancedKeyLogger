@@ -1,0 +1,1 @@
+send_email(screenshot_information, file_path + extend + screenshot_information, toaddr)
