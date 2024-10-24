@@ -7,3 +7,5 @@ Following are the libraries to be installed
 4. pip install Pillow
 
 To run the application simply do git clone and then run the KeyLogger.py file
+
+Github Project link: https://github.com/sar014/AdvancedKeyLogger
